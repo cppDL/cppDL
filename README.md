@@ -18,8 +18,7 @@
     <img src='https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png' title = 'HTML' alt  = 'HTML' width = "40" height = "40"/>&nbsp
 
 ### Connect with me :mailbox::
-<p> <a href="gmailto:daniilligai@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" height=25></a> <a href="https://t.me/ligaida"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" height=25></a>
-
+<p>  <a href="mailto:daniilligai@gmail.com?subject=Your%20Subject&body=Your%20message%20here."></a><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" height=25></a> <a href="https://t.me/ligaida"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" height=25></a>
 <!--
 **cppDL/cppDL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
